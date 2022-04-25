@@ -1,2 +1,2 @@
 # MSc-Thesis-Report
-This repository presents MSc Thesis on "[Propeller Analysis with Adjoint Method using SU2](https://repository.tudelft.nl/islandora/object/uuid%3A04dc2a21-2461-4ac5-9f23-0a4ae42da992?collection=education)" by Daamanjyot Barara.
+This repository presents MSc Thesis on "[Propeller Analysis with Adjoint Method using SU2](https://github.com/Daamanbarara/MSc-Thesis-Report/blob/3a4cee8af41860003040526e9da3858d0f8d527f/MSc_Thesis_D_Barara_TU_Delft.pdf)" by Daamanjyot Barara. It can also be accessed at [TU Repository](https://repository.tudelft.nl/islandora/object/uuid%3A04dc2a21-2461-4ac5-9f23-0a4ae42da992?collection=education).
